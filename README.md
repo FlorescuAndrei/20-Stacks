@@ -12,7 +12,7 @@ Stacks
 Array can be good for backing the stack only if you know the maximum number of items that will ever be on the stack O(1).  
 Otherwise if the array have to be resize then we have O(n). 
 
-All the stack do is to limit the operation you can do on whatever data structure is being use to implement the stack.  
+All the stack does is to limit the operation you can do on whatever data structure is being used to implement the stack.  
 
 In this project are two classes
   -  ArrayStack.java class create a stack backup by un array.  
