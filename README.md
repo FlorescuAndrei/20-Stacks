@@ -7,7 +7,7 @@ Stacks
   -  push – add item  
   -  pop – removes the top item  
   -  peek – gets the top item  
-  -  Ideal backing data structure: linked list O(1).  
+  -  Ideal backing data structure: Linked List O(1).  
 
 Array can be good for backing the stack only if you know the maximum number of items that will ever be on the stack O(1).  
 Otherwise if the array have to be resize then we have O(n). 
